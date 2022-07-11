@@ -1,0 +1,30 @@
+body{
+    background-color: #2FD0C7;
+}
+
+li{
+    font-size: 45px;
+    color: #C72FD0;
+}
+
+.done{
+    color:darkgrey;
+    text-decoration: line-through;
+    font-size: 30px;
+}
+
+#newToDo{
+    font-family: 'Titillium Web', sans-serif;
+    color: #D0C72F;
+}
+
+button{
+    position: absolute;
+    /* top:50%; */
+    text-align: center;
+    background-color:#2FD0C7; 
+    color: #fff;
+    border-radius: 50px;
+    /* margin-left: 20px; */
+    border: none;
+}
